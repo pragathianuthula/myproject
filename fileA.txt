@@ -1,1 +1,2 @@
 Main project file
+fixed bug in fileA
